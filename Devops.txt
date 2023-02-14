@@ -1,0 +1,6 @@
+class HelloDevOps {
+							public static void main(String args[]) {
+									System.out.PrintIn("Welcome to The Developing World of the IT Industries"); 
+								}
+
+}
